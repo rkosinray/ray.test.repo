@@ -10,4 +10,4 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		return application.sources(TestsyncApplication.class);
 	}
 
-}
+}//what what
